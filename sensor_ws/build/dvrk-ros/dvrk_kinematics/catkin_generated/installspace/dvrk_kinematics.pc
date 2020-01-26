@@ -1,0 +1,8 @@
+prefix=/home/davincic3/abhishek_ws/install
+
+Name: dvrk_kinematics
+Description: Description of dvrk_kinematics
+Version: 0.0.0
+Cflags: -I/home/davincic3/abhishek_ws/install/include
+Libs: -L/home/davincic3/abhishek_ws/install/lib 
+Requires: cisst_ros_bridge geometry_msgs roscpp sensor_msgs std_msgs

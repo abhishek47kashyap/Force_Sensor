@@ -1,0 +1,8 @@
+prefix=/home/davincic3/abhishek_ws/devel
+
+Name: dvrk_pcl
+Description: Description of dvrk_pcl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/davincic3/abhishek_ws/devel/lib 
+Requires: 

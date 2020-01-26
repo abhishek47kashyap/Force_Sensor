@@ -1,0 +1,8 @@
+prefix=/home/davincic3/abhishek_ws/devel
+
+Name: dvrk_robot
+Description: Description of dvrk_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/davincic3/abhishek_ws/devel/lib 
+Requires: 

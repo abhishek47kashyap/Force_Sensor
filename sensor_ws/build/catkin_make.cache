@@ -1,0 +1,2 @@
+dvrk-ros/dvrk_joint_publisher:dvrk-ros/dvrk_kinematics:dvrk-ros/dvrk_model:dvrk-ros/dvrk_teleop:rosserial/rosserial:rosserial/rosserial_arduino:rosserial/rosserial_client:rosserial/rosserial_embeddedlinux:rosserial/rosserial_mbed:rosserial/rosserial_msgs:rosserial/rosserial_python:rosserial/rosserial_server:rosserial/rosserial_test:rosserial/rosserial_tivac:rosserial/rosserial_windows:rosserial/rosserial_xbee
+-DCATKIN_DEVEL_PREFIX=/home/davincic3/abhishek_ws/devel -DCMAKE_INSTALL_PREFIX=/home/davincic3/abhishek_ws/install -G Unix Makefiles

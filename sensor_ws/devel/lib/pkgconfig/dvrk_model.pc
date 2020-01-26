@@ -1,0 +1,8 @@
+prefix=/home/davincic3/abhishek_ws/devel
+
+Name: dvrk_model
+Description: Description of dvrk_model
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/davincic3/abhishek_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/davincic3/abhishek_ws/install
+
+Name: dvrk_joint_publisher
+Description: Description of dvrk_joint_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/davincic3/abhishek_ws/install/lib 
+Requires: 
