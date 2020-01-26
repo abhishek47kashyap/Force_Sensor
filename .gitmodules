@@ -1,0 +1,3 @@
+[submodule "sensor_ws/src/dvrk-ros-submodule"]
+	path = sensor_ws/src/dvrk-ros-submodule
+	url = git@github.com:WPI-AIM/dvrk-ros.git
